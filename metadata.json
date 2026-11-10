@@ -1,0 +1,6 @@
+{
+  "name": "VoxStudio AI - Multilingual Natural TTS & Narration Studio",
+  "description": "Professional AI voiceover and narration studio for audiobooks, documentaries, podcasts, and commercial voiceovers across all world languages including Bengali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
